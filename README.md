@@ -1,6 +1,6 @@
 <a href="https://www.linkedin.com/in/th%C3%A9o-huret-a49a551a6/">
   <img
-    src="https://img.shields.io/twitter/follow/omBratteng?label=Linkedin&logo=linkedin&style=flat-square&color=89CFF0&logoColor=0e76a8"
+    src="https://img.shields.io/twitter/follow/omBratteng?label=Linkedin&logo=linkedin&style=flat-square&color=89CFF0&logoColor=ffffff"
     alt="Linkedin"
   />
 </a>
